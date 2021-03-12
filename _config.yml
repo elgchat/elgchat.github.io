@@ -1,0 +1,17 @@
+title: 'elgchat.github.io'
+description: "A man who likes his freedom."
+baseurl: "/"
+url: "https://elgchat.github.io/"
+
+header_pages:
+  - index.md
+#   - about.md
+  - contact.md
+
+style: dark
+
+footer: 'follow us on <a href="https://github.com/elgchat/">gitHub</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
