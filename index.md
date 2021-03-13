@@ -9,5 +9,5 @@ permalink: /
 
 Hi,I am Jani, A man who likes his freedom.
 
-- [ 2021 ~ now ] [Elgchat：系统Java学习笔记](https://elgchat.com/)
+- [ 长期维护项目 ] [Elgchat：系统Java学习笔记](https://elgchat.com/)
 
