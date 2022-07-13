@@ -1,7 +1,7 @@
 title: 'elgchat.github.io'
 description: "A man who likes his freedom."
 baseurl: "/"
-url: "https://elgchat.cn/"
+url: "http://www.vimor.cn"
 
 header_pages:
   - index.md
@@ -10,7 +10,7 @@ header_pages:
 
 style: dark
 
-footer: 'follow us on <a href="https://github.com/elgchat/">gitHub</a>'
+footer: 'follow us on <a href="https://github.com/vimor-cn/">gitHub</a>'
 
 # Build settings
 markdown: kramdown
